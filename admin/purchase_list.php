@@ -4,7 +4,7 @@
 	$p->findAll();
 	?>
 
-
+<h1>Purchase List</h1>
 	<table class="table table-striped">
 	  <thead>
 	  <tr>
